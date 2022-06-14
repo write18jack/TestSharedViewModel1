@@ -29,6 +29,8 @@ class Fragment1 : Fragment() {
             sharedViewModel.setPosi(posi)
             findNavController().navigate(R.id.action_fragment1_to_fragment2)
         }
+
+
     }
 
     companion object {
